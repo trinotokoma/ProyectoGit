@@ -6,7 +6,9 @@ namespace ProyectoGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Primer Commit en Git!");
+            Console.WriteLine("Primer Commit en Git!");
+            Console.WriteLine("Primer Commit en Git!");
         }
     }
 }
